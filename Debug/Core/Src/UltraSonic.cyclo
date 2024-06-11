@@ -1,0 +1,5 @@
+../Core/Src/UltraSonic.c:22:6:initUltraSonic	1
+../Core/Src/UltraSonic.c:26:6:delayUs	2
+../Core/Src/UltraSonic.c:31:6:HAL_TIM_IC_CaptureCallback	11
+../Core/Src/UltraSonic.c:74:10:getDistance	1
+../Core/Src/UltraSonic.c:83:10:getDistance2	1
